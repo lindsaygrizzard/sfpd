@@ -1,0 +1,1322 @@
+# <!=Copyright (C) 2017 RadiusTheme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: GymEdge 2.7\n"
+"Report-Msgid-Bugs-To: support@radiustheme.com\n"
+"POT-Creation-Date: 2017-11-20 06:56:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: RadiusTheme <info@radiustheme.com>\n"
+"Language-Team: RadiusTheme <info@radiustheme.com>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: inc/redux-config.php:765
+msgid "404"
+msgstr ""
+
+#: comments.php:12 template-parts/content-single.php:22
+msgid "Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment"
+msgstr ""
+
+#: comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:58
+msgid "Name"
+msgstr ""
+
+#: comments.php:61 inc/redux-config.php:232 inc/widgets/address-widget.php:73
+#: template-parts/content-single-trainer.php:32
+msgid "Email"
+msgstr ""
+
+#: comments.php:67
+msgid "Comment *"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:79
+msgid "Search Here......"
+msgstr ""
+
+#: inc/general.php:32
+msgid "Primary"
+msgstr ""
+
+#: inc/general.php:33
+msgid "Header Top"
+msgstr ""
+
+#: inc/helper-functions.php:86
+msgid "%1$s @ %2$s"
+msgstr ""
+
+#: inc/helper-functions.php:88
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/helper-functions.php:129
+msgid "Select a Trainer"
+msgstr ""
+
+#: inc/redux-config.php:22 inc/redux-config.php:23
+msgid "GymEdge Options"
+msgstr ""
+
+#: inc/redux-config.php:94 inc/redux-config.php:864
+msgid "General"
+msgstr ""
+
+#: inc/redux-config.php:103
+msgid "Primary Color"
+msgstr ""
+
+#: inc/redux-config.php:110
+msgid "Secondery/Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:116
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/redux-config.php:117 inc/redux-config.php:166 inc/redux-config.php:175
+#: inc/redux-config.php:183 inc/redux-config.php:191 inc/redux-config.php:206
+#: inc/redux-config.php:574 inc/redux-config.php:582 inc/redux-config.php:877
+#: inc/redux-config.php:885 inc/redux-config.php:894 inc/redux-config.php:909
+msgid "Enabled"
+msgstr ""
+
+#: inc/redux-config.php:118 inc/redux-config.php:167 inc/redux-config.php:176
+#: inc/redux-config.php:184 inc/redux-config.php:192 inc/redux-config.php:207
+#: inc/redux-config.php:575 inc/redux-config.php:583 inc/redux-config.php:878
+#: inc/redux-config.php:886 inc/redux-config.php:895 inc/redux-config.php:910
+msgid "Disabled"
+msgstr ""
+
+#: inc/redux-config.php:126
+msgid "Header"
+msgstr ""
+
+#: inc/redux-config.php:134
+msgid "Main Logo (Dark)"
+msgstr ""
+
+#: inc/redux-config.php:142
+msgid "Light Logo"
+msgstr ""
+
+#: inc/redux-config.php:146
+msgid "Mainly used in 2nd Header Style"
+msgstr ""
+
+#: inc/redux-config.php:151
+msgid "Logo Area Width"
+msgstr ""
+
+#: inc/redux-config.php:152
+msgid ""
+"Width is defined by the number of bootstrap columns. Please note, "
+"navigation menu width will be decreased with the increase of logo width"
+msgstr ""
+
+#: inc/redux-config.php:154
+msgid "1 Column"
+msgstr ""
+
+#: inc/redux-config.php:155
+msgid "2 Column"
+msgstr ""
+
+#: inc/redux-config.php:156
+msgid "3 Column"
+msgstr ""
+
+#: inc/redux-config.php:157
+msgid "4 Column"
+msgstr ""
+
+#: inc/redux-config.php:164
+msgid "Fixed Height Logo"
+msgstr ""
+
+#: inc/redux-config.php:165 inc/redux-config.php:174
+msgid ""
+"Disable only if you want to display the same logo size you uploaded. If you "
+"are going to disable it, it's recommended that you upload a logo which "
+"height is less than 60px"
+msgstr ""
+
+#: inc/redux-config.php:173
+msgid "Fixed Height Logo (in sticky menu)"
+msgstr ""
+
+#: inc/redux-config.php:182
+msgid "Search Icon"
+msgstr ""
+
+#: inc/redux-config.php:190
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/redux-config.php:198
+msgid "Top Bar Section"
+msgstr ""
+
+#: inc/redux-config.php:200
+msgid "If you want to hide any field simply keep it empty"
+msgstr ""
+
+#: inc/redux-config.php:205
+msgid "Display on Top"
+msgstr ""
+
+#: inc/redux-config.php:214 inc/redux-config.php:593
+msgid "Background Color"
+msgstr ""
+
+#: inc/redux-config.php:221
+msgid "Text Color"
+msgstr ""
+
+#: inc/redux-config.php:227 template-parts/content-single-trainer.php:33
+msgid "Phone"
+msgstr ""
+
+#: inc/redux-config.php:238
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-config.php:243
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-config.php:248
+msgid "Google Plus"
+msgstr ""
+
+#: inc/redux-config.php:253
+msgid "Linkedin"
+msgstr ""
+
+#: inc/redux-config.php:258
+msgid "Youtube"
+msgstr ""
+
+#: inc/redux-config.php:263
+msgid "Pinterest"
+msgstr ""
+
+#: inc/redux-config.php:268
+msgid "Instagram"
+msgstr ""
+
+#: inc/redux-config.php:273
+msgid "Skype"
+msgstr ""
+
+#: inc/redux-config.php:281
+msgid "Main Menu"
+msgstr ""
+
+#: inc/redux-config.php:289
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/redux-config.php:290 inc/redux-config.php:813 inc/redux-config.php:821
+#: inc/redux-config.php:829 inc/redux-config.php:837 inc/redux-config.php:845
+msgid "On"
+msgstr ""
+
+#: inc/redux-config.php:291 inc/redux-config.php:814 inc/redux-config.php:822
+#: inc/redux-config.php:830 inc/redux-config.php:838 inc/redux-config.php:846
+msgid "Off"
+msgstr ""
+
+#: inc/redux-config.php:297
+msgid "Menu Font"
+msgstr ""
+
+#: inc/redux-config.php:314
+msgid "Menu Color"
+msgstr ""
+
+#: inc/redux-config.php:321
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:328
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/redux-config.php:335
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/redux-config.php:342
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#: inc/redux-config.php:350 inc/widgets/widget-settings.php:37
+msgid "Footer"
+msgstr ""
+
+#: inc/redux-config.php:359
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/redux-config.php:366
+msgid "Footer Title Text Color"
+msgstr ""
+
+#: inc/redux-config.php:373
+msgid "Footer Body Text Color"
+msgstr ""
+
+#: inc/redux-config.php:380
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/redux-config.php:387
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/redux-config.php:393
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/redux-config.php:400
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-config.php:407
+msgid "Body"
+msgstr ""
+
+#: inc/redux-config.php:424
+msgid "Header h1"
+msgstr ""
+
+#: inc/redux-config.php:441
+msgid "Header h2"
+msgstr ""
+
+#: inc/redux-config.php:458
+msgid "Header h3"
+msgstr ""
+
+#: inc/redux-config.php:475
+msgid "Header h4"
+msgstr ""
+
+#: inc/redux-config.php:492
+msgid "Header h5"
+msgstr ""
+
+#: inc/redux-config.php:509
+msgid "Header h6"
+msgstr ""
+
+#: inc/redux-config.php:532
+msgid "Layout"
+msgstr ""
+
+#: inc/redux-config.php:534
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:535
+msgid "Full Width"
+msgstr ""
+
+#: inc/redux-config.php:536
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:543
+msgid "Header Style"
+msgstr ""
+
+#: inc/redux-config.php:547
+msgid "Style 1"
+msgstr ""
+
+#: inc/redux-config.php:551
+msgid "Style 2"
+msgstr ""
+
+#: inc/redux-config.php:559
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/redux-config.php:566
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/redux-config.php:573
+msgid "Banner"
+msgstr ""
+
+#: inc/redux-config.php:581
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/redux-config.php:590
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/redux-config.php:592
+msgid "Background Image"
+msgstr ""
+
+#: inc/redux-config.php:601
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/redux-config.php:607
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/redux-config.php:617
+msgid "Layout Defaults"
+msgstr ""
+
+#: inc/redux-config.php:626
+msgid "Page"
+msgstr ""
+
+#: inc/redux-config.php:636
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/redux-config.php:646
+msgid "Post Single"
+msgstr ""
+
+#: inc/redux-config.php:658 inc/redux-config.php:679
+msgid "Slug"
+msgstr ""
+
+#: inc/redux-config.php:667
+msgid "Trainer Single"
+msgstr ""
+
+#: inc/redux-config.php:685
+msgid "Schedule Time Format"
+msgstr ""
+
+#: inc/redux-config.php:687
+msgid "12-hour"
+msgstr ""
+
+#: inc/redux-config.php:688
+msgid "24-hour"
+msgstr ""
+
+#: inc/redux-config.php:696
+msgid "Class Single"
+msgstr ""
+
+#: inc/redux-config.php:705
+msgid "Search Layout"
+msgstr ""
+
+#: inc/redux-config.php:717
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/redux-config.php:729
+msgid "Shop Archive"
+msgstr ""
+
+#: inc/redux-config.php:738
+msgid "Product Single"
+msgstr ""
+
+#: inc/redux-config.php:750
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-config.php:751
+msgid "Error 404"
+msgstr ""
+
+#: inc/redux-config.php:756
+msgid "Body Background Image"
+msgstr ""
+
+#: inc/redux-config.php:764
+msgid "Body Text 1"
+msgstr ""
+
+#: inc/redux-config.php:770
+msgid "Body Text 2"
+msgstr ""
+
+#: inc/redux-config.php:771
+msgid "Page not Found"
+msgstr ""
+
+#: inc/redux-config.php:776
+msgid "Body Text 3"
+msgstr ""
+
+#: inc/redux-config.php:777
+msgid ""
+"The page you are looking is not available or has been removed. Try going to "
+"Home Page by using the button below."
+msgstr ""
+
+#: inc/redux-config.php:783
+msgid "Body Text 1,2 Color"
+msgstr ""
+
+#: inc/redux-config.php:789
+msgid "Button Text"
+msgstr ""
+
+#: inc/redux-config.php:790
+msgid "Go to Home Page"
+msgstr ""
+
+#: inc/redux-config.php:794
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/redux-config.php:804
+msgid "Post Settings"
+msgstr ""
+
+#: inc/redux-config.php:812
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/redux-config.php:820
+msgid "Show Author Name"
+msgstr ""
+
+#: inc/redux-config.php:828
+msgid "Show Categories"
+msgstr ""
+
+#: inc/redux-config.php:836
+msgid "Show Comment Number"
+msgstr ""
+
+#: inc/redux-config.php:844
+msgid "Show Tags"
+msgstr ""
+
+#: inc/redux-config.php:856
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/redux-config.php:870
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/redux-config.php:876
+msgid "Product Hover Effect"
+msgstr ""
+
+#: inc/redux-config.php:884
+msgid "Product Add to Wishlist Icon"
+msgstr ""
+
+#: inc/redux-config.php:893
+msgid "Product Quickview Icon"
+msgstr ""
+
+#: inc/redux-config.php:902
+msgid "Product Single Page"
+msgstr ""
+
+#: inc/redux-config.php:908
+msgid "Show excerpt when short description doesn't exist"
+msgstr ""
+
+#: inc/redux-config.php:916
+msgid "Related Products"
+msgstr ""
+
+#: inc/redux-config.php:917 inc/redux-config.php:925 inc/redux-config.php:933
+#: inc/redux-config.php:941 inc/redux-config.php:955
+msgid "Show"
+msgstr ""
+
+#: inc/redux-config.php:918 inc/redux-config.php:926 inc/redux-config.php:934
+#: inc/redux-config.php:942 inc/redux-config.php:956
+msgid "Hide"
+msgstr ""
+
+#: inc/redux-config.php:924
+msgid "Description Tab"
+msgstr ""
+
+#: inc/redux-config.php:932
+msgid "Reviews Tab"
+msgstr ""
+
+#: inc/redux-config.php:940
+msgid "Additional Information Tab"
+msgstr ""
+
+#: inc/redux-config.php:948
+msgid "Cart Page"
+msgstr ""
+
+#: inc/redux-config.php:954
+msgid "Cross Sell Products"
+msgstr ""
+
+#: inc/redux-config.php:965
+msgid "Advanced"
+msgstr ""
+
+#: inc/redux-config.php:973
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/redux-config.php:974
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/vc-settings.php:14
+msgid "Content Maximum Width"
+msgstr ""
+
+#: inc/vc-settings.php:17
+msgid "Default"
+msgstr ""
+
+#: inc/vc-settings.php:18
+msgid "500 px"
+msgstr ""
+
+#: inc/vc-settings.php:19
+msgid "550 px"
+msgstr ""
+
+#: inc/vc-settings.php:20
+msgid "600 px"
+msgstr ""
+
+#: inc/vc-settings.php:21
+msgid "650 px"
+msgstr ""
+
+#: inc/vc-settings.php:22
+msgid "700 px"
+msgstr ""
+
+#: inc/vc-settings.php:23
+msgid "750 px"
+msgstr ""
+
+#: inc/vc-settings.php:24
+msgid "800 px"
+msgstr ""
+
+#: inc/vc-settings.php:25
+msgid "850 px"
+msgstr ""
+
+#: inc/vc-settings.php:26
+msgid "900 px"
+msgstr ""
+
+#: inc/vc-settings.php:27
+msgid "950 px"
+msgstr ""
+
+#: inc/vc-settings.php:28
+msgid "1000 px"
+msgstr ""
+
+#: inc/vc-settings.php:29
+msgid "1050 px"
+msgstr ""
+
+#: inc/vc-settings.php:30
+msgid "1100 px"
+msgstr ""
+
+#: inc/vc-settings.php:31
+msgid "1150 px"
+msgstr ""
+
+#: inc/vc-settings.php:32
+msgid "1200 px"
+msgstr ""
+
+#: inc/widgets/about-widget.php:7
+msgid "GymEdge: About"
+msgstr ""
+
+#: inc/widgets/about-widget.php:8
+msgid "GymEdge: About Widget"
+msgstr ""
+
+#: inc/widgets/about-widget.php:67
+msgid "About Company"
+msgstr ""
+
+#: inc/widgets/about-widget.php:81 inc/widgets/address-widget.php:61
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/about-widget.php:85
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/about-widget.php:89
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:93
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:97
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:101
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:105
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:109
+msgid "Rss Feed URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:113
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/widgets/address-widget.php:7
+msgid "GymEdge: Address"
+msgstr ""
+
+#: inc/widgets/address-widget.php:8
+msgid "GymEdge: Address Widget"
+msgstr ""
+
+#: inc/widgets/address-widget.php:51
+msgid "Corporate Office"
+msgstr ""
+
+#: inc/widgets/address-widget.php:65
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/address-widget.php:69
+msgid "Phone Number"
+msgstr ""
+
+#: inc/widgets/address-widget.php:77
+msgid "Fax"
+msgstr ""
+
+#: inc/widgets/search-widget.php:9
+msgid "Search here ..."
+msgstr ""
+
+#: inc/widgets/widget-settings.php:29
+msgid "Sidebar"
+msgstr ""
+
+#: inc/woo-hooks.php:179
+msgid "Name *"
+msgstr ""
+
+#: inc/woo-hooks.php:180
+msgid "Email *"
+msgstr ""
+
+#: inc/woo-hooks.php:186
+msgid "Your Rating"
+msgstr ""
+
+#: inc/woo-hooks.php:188
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/woo-hooks.php:189
+msgid "Perfect"
+msgstr ""
+
+#: inc/woo-hooks.php:190
+msgid "Good"
+msgstr ""
+
+#: inc/woo-hooks.php:191
+msgid "Average"
+msgstr ""
+
+#: inc/woo-hooks.php:192
+msgid "Not that bad"
+msgstr ""
+
+#: inc/woo-hooks.php:193
+msgid "Very Poor"
+msgstr ""
+
+#: inc/woo-hooks.php:197
+msgid "Your Review *"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:386
+#: lib/class-tgm-plugin-activation.php:827
+#: lib/class-tgm-plugin-activation.php:2533
+#: lib/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:387
+#: lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:388
+#: lib/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: template-parts/content-banner.php:9
+msgid "Search Results for : "
+msgstr ""
+
+#: template-parts/content-banner.php:16
+msgid "All Posts"
+msgstr ""
+
+#: template-parts/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:14 template-parts/content.php:15
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-single-class.php:5
+msgid "Monday"
+msgstr ""
+
+#: template-parts/content-single-class.php:6
+msgid "Tuesday"
+msgstr ""
+
+#: template-parts/content-single-class.php:7
+msgid "Wednesday"
+msgstr ""
+
+#: template-parts/content-single-class.php:8
+msgid "Thursday"
+msgstr ""
+
+#: template-parts/content-single-class.php:9
+msgid "Friday"
+msgstr ""
+
+#: template-parts/content-single-class.php:10
+msgid "Saturday"
+msgstr ""
+
+#: template-parts/content-single-class.php:11
+msgid "Sunday"
+msgstr ""
+
+#: template-parts/content-single-class.php:26
+msgid "Schedule"
+msgstr ""
+
+#: template-parts/content-single-class.php:54
+msgid "Class time"
+msgstr ""
+
+#: template-parts/content-single-class.php:56
+msgid "Trainer"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:29
+msgid "Experience"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:30
+msgid "Age"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:31
+msgid "Weight"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:51
+msgid "Biography:"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:56
+msgid "Skills:"
+msgstr ""
+
+#: template-parts/content-single.php:16
+msgid "By"
+msgstr ""
+
+#: template-parts/content-single.php:19
+msgid "Categories"
+msgstr ""
+
+#: template-parts/content-single.php:34
+msgid "Tags"
+msgstr ""
+
+#: wc-template-parts/content-product-meta.php:4
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wc-template-parts/content-product-meta.php:5
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wc-template-parts/content-product-sku.php:5
+msgid "SKU:"
+msgstr ""
+
+#: wc-template-parts/content-product-sku.php:5
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:17
+msgid "Add to Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:27 woocommerce/add-to-wishlist.php:34
+msgid "Already added in Wishlist. Click here to view Wishlist"
+msgstr ""
+
+#: woocommerce/single-product/related.php:61
+msgid "RELATED PRODUCTS"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "GymEdge"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://radiustheme.com/demo/wordpress/gymedge"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"GymEdge - Gym Fitness, Yoga & Personal Trainer WordPress Theme. It is fully "
+"responsive for all kind of devices like Desktop & Mobile. It has 4 home "
+"pages multi page also 4 one pages. GymEdge has included all kind of "
+"features for Gym Fitness , Yoga & Personal Trainer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RadiusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: inc/scripts.php:5
+msgctxt "Google fonts - Open Sans and Roboto : on or off"
+msgid "on"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1121
+#: lib/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

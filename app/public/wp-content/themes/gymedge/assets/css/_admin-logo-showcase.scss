@@ -1,0 +1,32 @@
+/* WP Logo Showcase */
+#wpls-carousel {
+    margin: 0 30px;
+}
+.rt-wpls #wpls-carousel .slick-list {
+  margin: 0 15px;
+}
+.rt-wpls #wpls-carousel .slick-prev::before, 
+.rt-wpls #wpls-carousel .slick-next::before {
+    background-color: transparent !important;
+    color: #fff !important;
+    font-family: FontAwesome;
+    opacity: 1;
+}
+.rt-wpls #wpls-carousel .slick-prev::before {
+    content: "\f104";
+}
+.rt-wpls #wpls-carousel .slick-next::before {
+    content: "\f105";
+}
+.rt-wpls #wpls-carousel .slick-prev,
+.rt-wpls #wpls-carousel .slick-next {
+    background-color: #fb5b21;
+    border-radius: 0 !important;
+    height: inherit;
+    padding: 6px 13px;
+    width: inherit;
+}
+.rt-wpls #wpls-carousel .slick-prev:hover,
+.rt-wpls #wpls-carousel .slick-next:hover {
+    background-color: #000 !important;
+}

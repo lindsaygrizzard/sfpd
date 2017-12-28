@@ -1,0 +1,57 @@
+/*
+	You can type here custom CSS code, which will be loaded both on your admin and front-end pages.
+	Please make sure to not override layout properties (positions and sizes), as they can interfere
+	with the sliders built-in responsive functionality. Here are few example targets to help you get started:
+*/
+
+.ls-container { /* Slider container */
+
+}
+
+.ls-layers { /* Layers wrapper */ 
+
+}
+
+.ls-3d-box div { /* Sides of 3D transition objects */ 
+
+}
+.wpb_layerslider_element{
+    margin-bottom: 0 !important;
+}
+.gym-slider-social {
+	margin: 0;
+	padding: 0;
+}
+.gym-slider-social li {
+  display: inline;
+}
+.gym-slider-social a {
+	border: 1px solid #585858;
+	border-radius: 30px;
+	color: #fb5b21;
+	display: inline-block;
+	font-size: 16px;
+	margin-bottom: 10px;
+	margin-right: 2px;
+	padding: 9px 0;
+	text-align: center;
+	width: 38px;
+}
+.gym-slider-social a:hover{
+	background-color: #FB5B21;
+	color: #fff;
+	border-color: #FB5B21;
+}
+@media all and (max-width: 767px) {
+	.gym-slider-social a {
+		padding: 5px 0;
+		width: 25px;
+	}
+}
+@media all and (max-width: 480px) {
+	.gym-slider-social a {
+		padding: 1px 0;
+		width: 18px;
+		font-size: 10px;
+	}
+}

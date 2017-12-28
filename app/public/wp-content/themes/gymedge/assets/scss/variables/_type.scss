@@ -1,0 +1,53 @@
+/*variables/_type.scss */
+
+@font-face {
+	font-family: "DIN";
+	src: url('fonts/din/DINComp.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "DIN-bold";
+	src: url('fonts/DINComp-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Riccione";
+	src: url('fonts/riccione/Riccione-Bold.otf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Positype';
+    // src: url(asset-path('fonts/positype/positype.otf');
+    font-style: normal;
+}
+
+/* Body Text Styles */
+$base-text-color: $dark-primary-color;
+$base-font-family: "DIN", Helvetica, Arial, sans-serif;
+$base-font: "DIN", Helvetica, Arial, sans-serif;
+$base-font-size: 14px;
+$base-font-weight: 400;
+$base-padding: 0px 0px 0px 20px;
+
+/* UI Text Style */
+$ui-font-family: "DIN", Helvetica, Arial, sans-serif;
+$ui-font-size: 12px;
+
+/* Headline Text Styles */
+$base-font-header: "Riccione", serif;
+$headline-line-height: 1em;
+
+
+h5,h6,p,span,li,td {
+	font-family: $base-font !important;
+}
+
+h1, h2, h3 {
+	font-family: $base-font-header !important;
+}

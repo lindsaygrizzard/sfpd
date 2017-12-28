@@ -1,0 +1,34 @@
+<wpml-config>
+    <admin-texts>
+        <key name="gymedge">
+            <key name="copyright_text" />
+            <key name="error_title" />
+            <key name="error_text1" />
+            <key name="error_text2" />
+            <key name="error_text3" />
+            <key name="error_buttontext" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">gym_trainer</custom-type>
+        <custom-type translate="1">gym_class</custom-type>
+        <custom-type translate="1">gym_testimonial</custom-type>
+        <custom-type translate="1">gym_gallery</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">gym_team_category</taxonomy>
+        <taxonomy translate="1">gym_class_category</taxonomy>
+        <taxonomy translate="1">gym_testimonial_category</taxonomy>
+        <taxonomy translate="1">gym_gallery_category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+       <custom-field action="translate">gym_trainer_designation</custom-field>
+       <custom-field action="translate">gym_trainer_experience</custom-field>
+       <custom-field action="translate">gym_trainer_age</custom-field>
+       <custom-field action="translate">gym_trainer_weight</custom-field>
+       <custom-field action="translate">gym_trainer_skill</custom-field>
+       <custom-field action="translate">gym_class_button_text</custom-field>
+       <custom-field action="translate">gym_class_schedule</custom-field>
+       <custom-field action="translate">gym_tes_designation</custom-field>
+   </custom-fields>
+</wpml-config>

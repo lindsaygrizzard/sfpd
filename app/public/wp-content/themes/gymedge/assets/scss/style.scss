@@ -1,0 +1,72 @@
+/*
+ Theme Name:   SF Pole and Dance
+ Theme URI:    http://example.com/sanfranciscopoleanddance/
+ Description:  SF Pole and Dance Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  sanfranciscopoleanddance
+*/
+
+// @import "compass";
+// @import "compass/reset";
+
+// Vendor 
+@import "vendor/bootstrapmin"; //zurb foundation
+
+
+
+// Variables
+@import "variables/colors";
+@import "variables/type";
+
+// mixins
+// @import "mixins/typography";
+
+// keyframes
+// @import "keyframes/animation";
+
+// helpers
+// @import "helpers/borders";
+// @import "helpers/spacing";
+@import "helpers/typography-helpers";
+// @import "helpers/animation";
+// @import "helpers/colors";
+// @import "helpers/positioning";
+
+// components
+@import "components/accordion";
+@import "components/buttons";
+@import "components/contact";
+@import "components/footer";
+@import "components/forms";
+@import "components/hero";
+@import "components/icons";
+@import "components/images";
+@import "components/lists";
+@import "components/links";
+@import "components/menu";
+@import "components/section";
+// @import "components/tables";
+@import "components/quotes";
+@import "components/instructors";
+
+// pages
+@import "pages/home";
+// @import "pages/schedule";
+// @import "pages/pricing";
+// @import "pages/parties";
+// @import "pages/classes";
+// @import "pages/instructors";
+// @import "pages/about";
+// @import "pages/contact";
+
+
+h1, h2, h3, div, span, p {
+	// background-color: black !important;
+}
+
